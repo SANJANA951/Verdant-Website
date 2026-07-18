@@ -40,7 +40,8 @@ Healthy-Salad/
 
 ![Healthy Salad Preview](preview.png)
 
->C:\Users\meera\OneDrive\Pictures\Screenshots\Screenshot 2026-07-18 231909.png
+<img width="1794" height="873" alt="Screenshot 2026-07-18 231909" src="https://github.com/user-attachments/assets/c2907678-e9ac-4965-9cc5-0b15880091ea" />
+
 
 ## 💻 Getting Started
 
