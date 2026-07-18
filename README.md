@@ -6,7 +6,7 @@ A modern and responsive landing page for a healthy salad brand, built using **HT
 ## 🚀 Live Demo
 
 👉 **Click here to view:**  
-**https://your-live-demo-link.com**
+**https://sanjana951.github.io/Verdant-Website/**
 
 ## ✨ Features
 
